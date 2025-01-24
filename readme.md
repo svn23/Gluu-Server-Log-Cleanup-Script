@@ -67,7 +67,7 @@ Add this line to execute daily at 2 AM:
 ## 📦 File Structure
 ```bash
 /gluu-log-cleanup
-├── log_cleanup.sh  # Main cleanup script
+├── Log_del.sh  # Main cleanup script
 ├── README.md       # Documentation file
 ├── Licence.txt
 ```
